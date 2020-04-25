@@ -41,6 +41,12 @@ body {
     margin-left: 25px;
 }
 
+a:hover {
+    background-color: #2a607c;
+    color: #ffffff;
+    font-size: 22px;
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
